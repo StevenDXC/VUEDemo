@@ -1,1 +1,3 @@
-# VUEDemo
+# VueDemo
+
+Vue + Vux demo project
